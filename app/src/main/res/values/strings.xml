@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Food Blog</string>
+    <string name="PenangAsianFoodandCultureFestival">Penang Asian Food and Culture Festival</string>
+    <string name="FoodDonationCharityEvent">Food Donation Charity Event</string>
+    <string name="WeekendGuinnessbyFireFestival">Weekend Guinness by Fire Festival</string>
+    <string name="KasbahBBQParty">Kasbah BBQ Party</string>
+    <string name="Event1">
+        <br>Food Donation Charity Event\n</br>
+        <br>Location : Taman Alibaba\n</br>
+        <br>Date : 25 – 29 October 2019\n</br>
+        <br>Time : 10am – 10pm\n</br>
+        <br>Description : This activity is carry out to help out the orphan at Taman Alibaba. Feel free to donate food and drinks to us. We accept all kind of donation as long as it is not spoil.\n\n</br>
+    </string>
+    <string name="Event2">
+        <br>Penang Asian Food and Culture Festival\n</br>
+        <br>Location : Gurney Paragon Mall, Gurney Drive, 10250 George Town, Penang\n</br>
+        <br>Date : 13 – 15 September 2019\n</br>
+        <br>Time : 10am – 10pm\n</br>
+        <br>Rating : 10/10\n</br>
+        <br>Description : \n
+            Featuring the best of Asian cuisine from Japan to Indonesia, five countries come together to showcase an amazing cultural culinary experience in five different malls for an epic epicurean adventure.\n\n
+            Perfect for the upcoming long weekend, the festival will also feature cultural performances and activities celebrating each county by art installations, cooking and cultural workshops and demonstrations, and games in addition to the pop-up street food specialties.\n\n
+            Expect worldwide favorites and zany creations such as the traditional Japanese ramen-eating experience, and the fascinating Indomie doughnut from Indonesia!\n\n
+        </br>
+    </string>
+    <string name="Promotion1">
+        <br>Weekend Guinness by Fire Festival\n</br>
+        <br>Rating : 7/10\n</br>
+        <br>
+            Description : \n
+            Calling all foodies and fans of Guinness! Guinness Flavour by Fire Festival has just what you need to heat up your weekend. Featuring a selection of mouth-watering flame-grilled, roasted, and barbecued dishes, as well as live performances from some of KL’s hottest bands. There also be games, contests, and of course – plenty of cold, smooth Guinness Draught to pair it with.\n\n
+            Five chefs will be cooking up a storm over open flame. Get excited to see celebrity chefs Sapna Anand from GOA by Sapna, and Sherson Lian and Johnny Fua from Kitchen Mafia, as well as Pitmaster Kok Fung from Burnin’ Pit, and Chef Suren Krishnan from Tipsy Boar show off their skills on the grill!\n\n
+            Admission is free, and what’s even better – sign up in advance on www.drinkies.my/guinness for a FREE glass of Guinness to get the party started*. It’s going to be the hottest weekend of the year!\n\n
+            *Only available to non-Muslims aged 21 and above.\n\n
+        </br>
+    </string>
+    <string name="Promotion2">
+        <br>Kasbah BBQ Party\n</br>
+        <br>Location : \n</br>
+        <br>Rating : 10/10\n</br>
+        <br>Description : \n
+            Get together on Saturday, 11th August, for this open BBQ day, and enjoy all what you can eat, drink, and dance with fun DJ beats.\n
+            Food Menu:\n
+            Merguez Sausage = RM17\n
+            Kabab = RM15\n
+            Chicken = RM13\n
+            Vegetarian skewers = RM13\n
+            Open Salad bar = RM20\n
+            Drinks Menu:\n
+            Beer = RM10\n
+            Wine = RM12\n
+            Venue: La Cave\n
+            7, Jalan Telawi 5, 59100 Kuala Lumpur, Malaysia\n
+            Date and Time: Saturday, August 11 at 12 PM – 6 PM\n\n
+        </br>
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
